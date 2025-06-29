@@ -16,6 +16,7 @@ npm i --save bootstrap
 
 ## Reference
 [Angular DataTables](https://l-lin.github.io/angular-datatables)
+
 [Using Angular DataTables to build feature-rich tables](https://blog.logrocket.com/angular-datatables-feature-rich-tables/)
 
 ## Development server
