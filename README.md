@@ -1,6 +1,7 @@
-# AngularDatatable
+# Angular Datatable
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.11.
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.11. 
+This project was made to serve as a playing ground for using Angular and datatables (datatables.net) JS library.
 
 
 Setup:
@@ -9,8 +10,13 @@ Setup:
 ng new angular-datatable
 cd angular-datatable
 ng add angular-datatables
+npm i --save bootstrap
 
 ```
+
+## Reference
+[Angular DataTables](https://l-lin.github.io/angular-datatables)
+[Using Angular DataTables to build feature-rich tables](https://blog.logrocket.com/angular-datatables-feature-rich-tables/)
 
 ## Development server
 
